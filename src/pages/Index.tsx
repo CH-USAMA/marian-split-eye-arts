@@ -25,7 +25,7 @@ const Index = () => {
     {
       title: "Seasonal Holy Cross",
       description: "Limited edition seasonal crosses with special occasion blessings, perfect for Christmas and Easter celebrations.",
-      image: "https://images.unsplash.com/photo-1578662754406-dc664c4d8f5f?w=500&h=600&fit=crop&crop=center",
+      image: "https://as1.ftcdn.net/jpg/13/72/31/34/1000_F_1372313493_bGvockjq5nb93I7n9g9vC9g3dFXBipYi.webp",
       price: "$120"
     }
   ];
